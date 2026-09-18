@@ -10,7 +10,7 @@
       "description": "A test JailKit package",
       "author": "JailKit",
       "type": "script",
-      "download": "https://raw.githubusercontent.com/jaycetheog081-ux/TestRepo/b1ba86090cfec7c779d791713b3d8751f8c4cdfc/Packages/hello.sh"
+      "download": "https://github.com/jaycetheog081-ux/TestRepo/blob/009a95bc10d7a0dcd0b033629e57c6d140a96c6d/TestRepo.json"
     }
   ]
 }
