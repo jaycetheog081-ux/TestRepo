@@ -1,8 +1,0 @@
-{
-  "name": "Test Package",
-  "identifier": "com.jailkit.prime",
-  "version": "1.0.0",
-  "type": "utility",
-  "description": "My first JailKit package",
-  "action": "carry the 3, add a 2, i got it. i FUCKING GOT IT"
-}
